@@ -1,0 +1,5 @@
+1. Changed the comparison from string comparison to integer comparison inside loop
+
+2. Added a dictionary that maps every possible outcome
+
+3. Removed the infintie loop that allowed player to play repetitively
